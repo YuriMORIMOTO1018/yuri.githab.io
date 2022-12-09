@@ -381,17 +381,12 @@ form input[type="submit"]{
     width: 1.5em;
 }
 .new-area{
-    width: 85%;
-    margin: 4em auto;
+    margin-top: 2em;
     overflow: auto;
 }
-.git-image{
-    width: 48.5%;
-    float: left;
+.git-image img{
+    width: 100%;
     height: 350px;
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    margin-bottom: 3%;
+    object-fit: cover;
 }
 
