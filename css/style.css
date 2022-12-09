@@ -387,6 +387,7 @@ form input[type="submit"]{
 .git-image img{
     width: 100%;
     height: 350px;
+    margin: 2em;
     padding: 1em;
     
 }
