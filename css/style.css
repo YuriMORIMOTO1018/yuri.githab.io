@@ -380,6 +380,11 @@ form input[type="submit"]{
 .social-widgets img{
     width: 1.5em;
 }
+.new-area{
+    width: 85%;
+    margin: 4em auto;
+    overflow: auto;
+}
 .git-image{
     border: 2px solid red;
     width: 700px;
