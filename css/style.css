@@ -380,15 +380,5 @@ form input[type="submit"]{
 .social-widgets img{
     width: 1.5em;
 }
-.new-area{
-    border: 2px solid red;
-    margin: 2em;
-}
-.git-image img{
-    width: 350px;
-    height: auto;
-    margin: 2em;
-    padding: 1em;
-    
-}
+
 
