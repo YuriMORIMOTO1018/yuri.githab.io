@@ -382,7 +382,8 @@ form input[type="submit"]{
 }
 .new-area{
     border: 2px solid red;
-    width: 25%;
+    width: auto;
+    height: 700px;
     
    
     
