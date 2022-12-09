@@ -382,8 +382,9 @@ form input[type="submit"]{
 }
 .git-image{
     border: 2px solid red;
-    width: auto;
-    height: 700px;
+    width: 700px;
+    height: auto;
+    
     
    
     
