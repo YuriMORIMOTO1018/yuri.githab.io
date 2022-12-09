@@ -386,12 +386,12 @@ form input[type="submit"]{
     overflow: auto;
 }
 .git-image{
-    border: 2px solid red;
-    width: 700px;
-    height: auto;
-    
-    
-   
-    
+    width: 48.5%;
+    float: left;
+    height: 350px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin-bottom: 3%;
 }
 
