@@ -380,7 +380,7 @@ form input[type="submit"]{
 .social-widgets img{
     width: 1.5em;
 }
-.new-area{
+.new-area section-header{
     border: 2px solid red;
     width: auto;
     height: 700px;
